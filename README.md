@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://clipground.com/images/golang-image-clipart-1.jpg" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://miro.medium.com/max/11668/1*T5HJv_JYlmBALYbaNlKzcA.png" alt="Go lang" width="400"></a>
   <br>
   Teste Go
   <br>
